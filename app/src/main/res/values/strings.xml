@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActiveAndroidApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_addperson">Add Person</string>
+    <string name="button_retrieveperson">Retrieve Person</string>
+</resources>
